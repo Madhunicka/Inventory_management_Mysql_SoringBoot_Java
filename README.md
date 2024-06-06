@@ -39,7 +39,7 @@ This is a web application for managing inventory using Java Spring Boot and MySQ
     spring.application.name=projectCRUD
     spring.datasource.url=jdbc:mysql://localhost:3306/products_test?createDatabaseIfNotExist=True
     spring.datasource.username=root
-    spring.datasource.password=EG/2020/4051
+    spring.datasource.password=password
     
     
     
