@@ -72,8 +72,8 @@ This is a web application for managing inventory using Java Spring Boot and MySQ
   - Path variable: `id` (ID of the product to be deleted)
 
 - **Update a product:**
-  - `PUT /api/products/{id}`
-  - Path variable: `id` (ID of the product to be updated)
+  - `PUT /api/{productId}/addPart/{partId}`
+  - Pdoduct update with parts 
   - Request body: JSON representation of the updated product
 
 ### Part Endpoints
